@@ -8,9 +8,9 @@ The rapid exponential growth in genomic data presents great potential for biomed
 
 
 ![systems_side_by_side_with_line](https://github.com/user-attachments/assets/5d130429-8f77-470f-9bbb-310849cdbbfe)
-(a)                                           (b)
 
-Figure 1: System Architecture for the traditional (a) and the proposed system (b).
+
+Figure 1: System Architecture for the traditional (left) and the proposed system (right).
 
 
 
